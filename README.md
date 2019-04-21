@@ -1,5 +1,8 @@
 # fast-ai-experiments
-All the stuff I do as I go through the fast ai MOOC. 
+*All the stuff* 
+*I do*
+*as I go through*
+*the fast.ai MOOC*
 
 - The first project Civic Vs Corolla is a (succesful) attempt to classify different pictures of a civic or a corolla
 using restNet34. Now you might ask why did I choose to classify pictures of 2 different cars and not 100? 
