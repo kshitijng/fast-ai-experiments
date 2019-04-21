@@ -12,3 +12,6 @@ This is my high-level understanding of how things work or at least the most up-t
 [DISCLAIMER: Diagram might not be in sync with the author's current understanding]
 
 ![why flowcharts? because they are awesome, and don't you wish everything was simply described by a flowchart](https://github.com/kshitijng/fast-ai-experiments/blob/master/ELI18-Neural%20Networks%20to%20myself.png)
+
+
+Sidenote: Jupyter notebooks are amazing. As someone who likes to forget why I did something, its amazing to come back and just read the added context they provide as a notebook especially when I am trying to learn my way through something for the first time. 
